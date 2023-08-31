@@ -1,3 +1,5 @@
+(PLEASE ADJUST YOUR BROWSER VIEW RATIO ACCORDING TO THE WEBSITE WITH CTRL +/-)
+
 Introducing our meticulously crafted front-end clone of the stunning website https://www.niccolomiranda.com. Immerse yourself in a world of captivating design and exquisite visual storytelling. Our clone pays homage to the original with its refined aesthetics, attention to detail, and seamless user experience.
 
 From the moment you land on our clone, you'll be greeted by a captivating blend of typography and imagery, echoing the original site's charisma. As you navigate through the different sections, you'll notice the dynamic transitions and smooth scrolling that elegantly guide you through the content, just like the source of inspiration.
